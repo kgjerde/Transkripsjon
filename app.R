@@ -172,7 +172,7 @@ ui <- tagList(tags$head(includeScript("google-analytics.js")), # themeSelector()
                                                                       target="_blank"),
                                                          "for detaljer)")),
        
-                                                    list(div(style="text-align:justify", "Library of Congress (med diakritiske tegn – se", a("her", 
+                                                    list(div(style="text-align:justify", "Library of Congress (se", a("her", 
                                                                       href="https://www.loc.gov/catdir/cpso/romanization/russian.pdf", 
                                                                       target="_blank"),
                                                          "for detaljer)")),
