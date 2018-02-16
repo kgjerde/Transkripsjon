@@ -1,2 +1,2 @@
 # Transkripsjon
-App for transkripsjon av russisk til skandinaviske språk
+App for transkripsjon av russisk til skandinaviske språk. gjerde.shinyapps.io/Transkripsjon.
