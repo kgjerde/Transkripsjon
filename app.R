@@ -17,7 +17,7 @@ placeholder_text = "Ваш текст"
 # SHINY ####
 
 # _ui ####
-ui <- tagList(tags$head(includeScript("google-analytics.js")), # themeSelector(),
+ui <- tagList(# themeSelector(),
               tags$html(class = "body", style="display: block;
                       max-width: 800px;
                       margin: auto;"),
